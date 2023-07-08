@@ -1,0 +1,48 @@
+body {
+    background-color: lightcoral;
+  }
+  
+  .card {
+      background-color: hsl(0, 0%, 100%);
+      border-radius: 15px;
+      border-width: 1px;
+      box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
+      color: hsl(206, 17%, 28%);
+      font-size: 18px;
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 100px 300px;
+    }
+  
+  
+    
+    button {
+      border: solid #b5a642;
+      border-radius: 20px;
+      background-color:  #25356f ;
+      color: white;
+      border-width: 1px;
+      font-size: 20px;
+      padding: 25px;
+      margin: 15px;
+    }
+  
+    h1 {
+      border: solid;
+      border-radius: 20px;
+      background-color: lightcoral;
+      color: black;
+      border-width: 5px;
+      font-size: 50px;
+    }
+  
+    h2 {
+      border: solid #b5a642;
+      border-radius: 20px;
+      background-color:  #25356f ;
+      color: white;
+      border-width: 1px;
+      font-size: 20px;
+      padding: 25px;
+      margin: 15px;
+    }
